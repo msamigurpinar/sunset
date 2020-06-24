@@ -1,5 +1,5 @@
 # sunset
-80's style sunset which runs on NES
+80's style sunset demo which runs on NES
 
 ![sunset](assets/sunset.gif)
 
